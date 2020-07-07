@@ -1,0 +1,43 @@
+.font-style{
+    font-weight:bold;
+}
+
+
+.container{
+    margin-bottom: 100px;
+}
+.bd-color{
+    background-color: lightgrey;
+    border-radius: 15px;
+}
+.buy-now-button{
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    padding: 10px 30px;
+}
+.align-items-center{
+    padding: 20px 40px;
+}
+.color-text{
+    color: orange;
+    font-weight: bold;
+}
+.cat1, .cat2, .cat3  {
+    background-color: white;
+    padding: 30px 30px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px lightgray;
+}
+.pro img{
+    width: 100%;
+    margin-bottom: 40px;
+}
+.pro p{
+    color: gray;
+}
+h5{
+    margin-bottom: 24px;
+}
+
